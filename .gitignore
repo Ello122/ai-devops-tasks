@@ -1,0 +1,48 @@
+# Dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Build output
+dist/
+build/
+
+# Logs
+logs/
+*.log
+
+# Docker
+docker-compose.override.yml
+*.pid
+*.seed
+*.pid.lock
+
+# Docker volumes / local DB data (MongoDB)
+data/
+mongodb/
+mongo-data/
+*.db
+*.sqlite
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE / Editor
+.vscode/
+.idea/
+
+# Coverage reports
+coverage/
+
+# Runtime caches
+.cache/
+.tmp/

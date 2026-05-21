@@ -1,0 +1,1 @@
+jakosc mogla by byc lepsza

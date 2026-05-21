@@ -1,0 +1,1 @@
+plik jest dosyć krótki i zawiera dziwne emotki
